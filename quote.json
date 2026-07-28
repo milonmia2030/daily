@@ -1,24 +1,26 @@
-{
-  "translations": {
-    "en": "Indeed, with hardship comes ease.",
-    "bn": "নিশ্চয়ই কষ্টের সাথে রয়েছে স্বস্তি।",
-    "ar": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
-    "fr": "Avec la difficulté vient certes la facilité.",
-    "de": "Mit der Erschwernis kommt gewiss Erleichterung.",
-    "es": "Ciertamente, con la dificultad viene la facilidad.",
-    "tr": "Şüphesiz zorlukla beraber kolaylık vardır.",
-    "id": "Sesungguhnya bersama kesulitan ada kemudahan.",
-    "ms": "Sesungguhnya bersama kesukaran ada kemudahan."
-  },
-  "reference": {
-    "en": "Surah Ash-Sharh 94:6",
-    "bn": "সূরা আশ-শারহ ৯৪:৬",
-    "ar": "سورة الشرح ٩٤:٦",
-    "fr": "Sourate Ash-Sharh 94:6",
-    "de": "Sure Ash-Sharh 94:6",
-    "es": "Sura Ash-Sharh 94:6",
-    "tr": "İnşirah Suresi 94:6",
-    "id": "QS. Ash-Sharh 94:6",
-    "ms": "Surah Ash-Sharh 94:6"
+[
+  {
+    "translations": {
+      "en": "Indeed, with hardship comes ease.",
+      "bn": "নিশ্চয়ই কষ্টের সাথে রয়েছে স্বস্তি।",
+      "ar": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+      "fr": "Avec la difficulté vient certes la facilité.",
+      "de": "Mit der Erschwernis kommt gewiss Erleichterung.",
+      "es": "Ciertamente, con la dificultad viene la facilidad.",
+      "tr": "Şüphesiz zorlukla beraber kolaylık vardır.",
+      "id": "Sesungguhnya bersama kesulitan ada kemudahan.",
+      "ms": "Sesungguhnya bersama kesukaran ada kemudahan."
+    },
+    "reference": {
+      "en": "Surah Ash-Sharh 94:6",
+      "bn": "সূরা আশ-শারহ ৯৪:৬",
+      "ar": "سورة الشرح ٩٤:٦",
+      "fr": "Sourate Ash-Sharh 94:6",
+      "de": "Sure Ash-Sharh 94:6",
+      "es": "Sura Ash-Sharh 94:6",
+      "tr": "İnşirah Suresi 94:6",
+      "id": "QS. Ash-Sharh 94:6",
+      "ms": "Surah Ash-Sharh 94:6"
+    }
   }
-}
+]
